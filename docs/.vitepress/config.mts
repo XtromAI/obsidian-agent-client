@@ -83,6 +83,12 @@ export default defineConfig({
           { text: "Troubleshooting", link: "/help/troubleshooting" },
         ],
       },
+      {
+        text: "Development",
+        items: [
+          { text: "Semantic Search Recommendation", link: "/semantic-search-recommendation" },
+        ],
+      },
     ],
 
     socialLinks: [
