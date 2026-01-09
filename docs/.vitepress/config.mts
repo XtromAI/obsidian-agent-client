@@ -74,6 +74,7 @@ export default defineConfig({
           { text: "Chat Export", link: "/usage/chat-export" },
           { text: "Context Files", link: "/usage/context-files" },
           { text: "MCP Tools", link: "/usage/mcp-tools" },
+          { text: "Semantic Search (Recommendation)", link: "/usage/semantic-search" },
         ],
       },
       {
